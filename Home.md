@@ -35,11 +35,7 @@ The commune has to develop several features to help the authorities to search an
 
 - You will evaluated on the proper error handling.
 
-## Tools provided and Setup
-
-The project is setup completely to be used with Spring tool suit (It uses eclipse as IDE so it should be easy).
-
-Steps to start your exercise:
+## Starting the exercise
 
 1. Download the Sprint tool suite from [http://download.springsource.com/release/STS/3.9.0.RELEASE/dist/e4.7/spring-tool-suite-3.9.0.RELEASE-e4.7.0-win32-x86\_64.zip](http://download.springsource.com/release/STS/3.9.0.RELEASE/dist/e4.7/spring-tool-suite-3.9.0.RELEASE-e4.7.0-win32-x86_64.zip)
 2. Unzip the sprint tool suite go to **sts-bundle** and find STS.exe and launch the IDE
