@@ -45,3 +45,4 @@ The commune has to develop several features to help the authorities to search an
 ## Troubleshoot
 
 If you can&#39;t build the application, please set up java correctly in the IDE.
+The port can be updated in application.properties file. 
